@@ -1,3 +1,12 @@
+
+
+StateContext.tsx
+TS version of the Kent C. Dodds code:
+
+    https://kentcdodds.com/blog/how-to-optimize-your-context-value
+    https://kentcdodds.com/blog/application-state-management-with-react
+    https://kentcdodds.com/blog/how-to-use-react-context-effectively
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
